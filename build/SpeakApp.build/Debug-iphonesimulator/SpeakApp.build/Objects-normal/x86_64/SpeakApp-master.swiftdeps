@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "fd7bcacfaf0fbae42678d205fbc75100"
+build_time: [1533946055, 371453000]
+inputs:
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Controller/ChatLogController.swift": [1533937942, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Controller/LoginController+handler.swift": [1533756859, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Controller/NewMessageController.swift": [1533943171, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Model/Message.swift": [1533939271, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Controller/ChatViewController.swift": [1533946055, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Controller/LoginController.swift": [1533942404, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Model/User.swift": [1533936999, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/AppDelegate.swift": [1533309390, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/View/UserCell.swift": [1533946055, 0]
+  "/Users/natmac/Desktop/SpeakApp/SpeakApp/Helpers/Extensions.swift": [1533837950, 0]
